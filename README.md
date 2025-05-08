@@ -1,5 +1,7 @@
 ﻿# About Me:
-Data Science & AI Student @ FGV EMAp | Python | C++ | Julia | HTML | CSS | PowerBI <br><br>Searching to create meaningful projects to enhance my knowledge in various topics and make an inpact in the industry.
+Data Science & AI Student @ FGV EMAp
+
+Python | C++ | Julia | HTML | CSS | PowerBI <br><br>Searching to create meaningful projects to enhance my knowledge in various topics and make an inpact in the industry.
 
 
 ## 🌐 Socials:
